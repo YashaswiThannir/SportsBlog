@@ -1,0 +1,22 @@
+        body{
+                border: 10px solid gray;
+                width:50%;
+                margin:0 auto;
+                font-family: 'Noticia Text', serif;
+
+            }
+            .content{
+                padding: 15px;
+            }
+            hr{
+                width:96%;
+                color:#F4F4F4;
+            }
+            h5{
+                color:deepskyblue;
+                letter-spacing: 1.5px;
+            }
+            .para1{
+                border-left: 3px solid #A3A3A5;
+                padding-left: 6px;
+            }
